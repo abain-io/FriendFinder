@@ -22,6 +22,7 @@ var friendArray = [
         1
       ]
   }
+
   ];
   
   
